@@ -1,2 +1,2 @@
 # GD322
-GD322 Georgian Court Web Design 1
+GD322 Georgian Court Web Design I
